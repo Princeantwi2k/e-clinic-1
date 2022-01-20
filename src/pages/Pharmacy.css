@@ -1,0 +1,23 @@
+.time {
+  cursor: pointer;
+  padding: 12px;
+}
+.icon {
+  font-size: 20px;
+}
+.table {
+  margin-top: 20px;
+  text-align: center;
+}
+.input {
+  margin-bottom: 15px;
+  margin-left: 10px;
+  width: 1000px;
+}
+.topic {
+  padding: 20px;
+}
+.pagi {
+  position: absolute;
+  right: 40px;
+}
